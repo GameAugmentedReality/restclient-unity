@@ -30,5 +30,4 @@ public class RestClient : MonoBehaviour {
             Debug.Log("Value: " + item.value);
         }
     }
-
 }
